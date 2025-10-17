@@ -1,5 +1,6 @@
-function multiplication(5){
+function square(5){
   return: 5 * 5;
 };
 
-document.getElementById('result').innerHTML = multiplication;
+document.getElementById('result').innerHTML = square;
+
